@@ -41,7 +41,7 @@ if theme:
     st.markdown(
         """
         <style>
-        body { background-color: #0e1117; color: white; }
+        body { background-color: #0e1117; color: block; }
         </style>
         """,
         unsafe_allow_html=True
